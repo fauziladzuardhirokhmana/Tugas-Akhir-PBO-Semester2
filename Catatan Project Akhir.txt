@@ -9,4 +9,4 @@ Catatan :
 6. Lokasi source code : Kasir/src/Kasir
 7. Tempat menyimpan file gambar : Kasir/
 				  (Di luar atau sejajar dengan folder src)
-7. Persentase Project : 50%
+8. Persentase Project : 50%

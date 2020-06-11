@@ -1,0 +1,10 @@
+Catatan :
+
+1. Platform : Desktop 
+2. Bahasa Pemrograman : Java
+3. IDE : Netbeans IDE 8.2
+4. Nama package : Kasir
+5. Libraries Pendukung : -MySQL JDBC Driver
+			 -JDK 1.8
+6. Lokasi source code : Kasir/src/Kasir
+7. Persentase Project : 50%
